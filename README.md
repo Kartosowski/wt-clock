@@ -3,12 +3,36 @@
 Big ASCII clock for terminal with real-time date and system stats (RAM & CPU). Inspired by [tty-clock](https://github.com/XiaoxiaoOU/tty-clock).
 
 ## Features
-- Large ASCII time display
-- Toggle between showing date or system stats
-- Lightweight and terminal-friendly
-- Works on Windows, macOS, and Linux
+
+* Large ASCII time display
+* Toggle between showing date or system stats
+* Lightweight and terminal-friendly
+* Works on Windows, macOS, and Linux
 
 ## Usage
-Run in terminal with Node.js:
+
+### Run with Node.js
+
 ```bash
 node main.cjs
+```
+
+### Run prebuilt Windows executable
+
+```bash
+wt-clock.exe
+```
+
+### Controls
+
+* Use arrow keys (`←` / `→`) to navigate settings
+* Press `S` to toggle between date and system stats
+* Press `Ctrl + C` to exit
+
+## Screenshots
+
+<img width="2506" height="1167" alt="image" src="https://github.com/user-attachments/assets/093d520d-b073-4f3e-a700-781e192aac14" />
+
+## License
+
+MIT License
