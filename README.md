@@ -11,4 +11,4 @@ Big ASCII clock for terminal with real-time date and system stats (RAM & CPU). I
 ## Usage
 Run in terminal with Node.js:
 ```bash
-node index.js
+node main.cjs
