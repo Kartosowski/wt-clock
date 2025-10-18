@@ -1,0 +1,6 @@
+{
+  "name": "wt-clock",
+  "version": "1.0.0",
+  "bin": "main.cjs",
+  "type": "commonjs"
+}
