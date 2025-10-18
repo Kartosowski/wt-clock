@@ -1,6 +1,6 @@
 # wt-clock
 
-Big ASCII clock for terminal with real-time date and system stats (RAM & CPU). Inspired by [tty-clock](https://github.com/XiaoxiaoOU/tty-clock).
+Big ASCII clock for terminal with real-time date and system stats (RAM & CPU). Inspired by [tty-clock](https://github.com/xorg62/tty-clock).
 
 ## Features
 
