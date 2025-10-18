@@ -33,6 +33,9 @@ wt-clock.exe
 
 <img width="2506" height="1167" alt="image" src="https://github.com/user-attachments/assets/093d520d-b073-4f3e-a700-781e192aac14" />
 
+> ⚠️ Future plans: I want to recode this project in C (or C++) for better performance and cross-platform terminal support.
+
 ## License
 
 MIT License
+
