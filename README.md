@@ -7,7 +7,6 @@ Big ASCII clock for terminal with real-time date and system stats (RAM & CPU). I
 * Large ASCII time display
 * Toggle between showing date or system stats
 * Lightweight and terminal-friendly
-* Works on Windows, macOS, and Linux
 
 ## Usage
 
